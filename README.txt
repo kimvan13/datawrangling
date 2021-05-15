@@ -1,9 +1,5 @@
 EDUCATION IN NEW ZEALAND COMPARED WITH THE WORLD
 
-Kim Van Nguyen – 68569443
-Lianyin Liu – 17899438 
-Swapna Josmi Sam – 74281128 
-Ancy John – 52770710
 
 Please follow the order to review the jupyter notebooks.
 
@@ -32,8 +28,3 @@ Please follow the order to review the jupyter notebooks.
  4.2)Government_Expenditure_Education_Wrangled.csv
  4.3)Labour__Unemployment_Rate_Wrangled.csv
 
-5)Powerpoint Presentation
-  5.1)Wranglingpresentation_.pptx
-
-6) Group Project Diary
-   6.1)Data Wrangling project diary
